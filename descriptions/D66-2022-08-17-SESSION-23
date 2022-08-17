@@ -1,0 +1,14 @@
+00:00 - recalling yesterday session 
+03:40 - introduction to ansible playbook 
+11:48 - XML eXtensible markup language  
+17:32 - JSON
+21:05 - YAML (yet another markup language 
+34:55 - ansible playbook 
+56:00 - demo on play vars 
+1:00:30 - demo on play var files 
+1:02:40 - demo on task level variables 
+1:05:33 - read the variables from inventry file
+1:06:53 - variable from CLI 
+1:08:27 - ansible variable pre defined from user (hardcoded)
+1:11:19 - roles 
+1:17:39 - variable precendence while role are used 
