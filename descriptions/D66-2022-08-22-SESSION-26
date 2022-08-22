@@ -1,0 +1,10 @@
+00:00 - recalling yesterday session
+06:20 - install nginx 
+11:00 - restart nginx service 
+17:28 - copy roboshop config file
+30:05 - setup hostname 
+36:00 - import common role 
+42:10 - copy mongoDB repo file 
+49:15 - catalogue (setup nodeJS repos)
+58:32 - install galaxy general collection 
+1:12:35 - install galaxy mongoDB collection
