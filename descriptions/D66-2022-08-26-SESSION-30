@@ -1,0 +1,9 @@
+00:00 - recalling yesterday session
+01:55 - prometheus 
+04:54 - monitoring 
+10:00 - what prometheus does
+19:34 - prometheus pulls metric
+44:03 - prometheus architecture 
+51:23 - matrics are vectors 
+57:00 - installation (sudo labauto)
+1:03:00 - installation (sudo labauto prometheus-server)
