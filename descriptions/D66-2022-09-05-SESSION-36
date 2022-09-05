@@ -1,0 +1,14 @@
+00:00 - recalling yesterday session 
+05:18 - infrastructure as code 
+06:35 - why IaC
+10:14 - Terraform 
+29:07 - variables 
+32:34 - variables data type 
+36:00 - variables input 
+40:05 - variables TFVARS
+44:43 - variables precedance 
+48:35 - provider 
+52:20 - resourecs 
+1:00:00 - terraform code identation 
+1:02:25 - create instance with one security group 
+1:19:30 - terraform state file 
