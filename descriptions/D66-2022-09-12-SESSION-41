@@ -1,0 +1,15 @@
+00:00 - recalling yesterday session 
+01:28 - create a public traffic and private traffic 
+04:49 - what make subnets public or private
+11:47 - creating the networks 
+18:03 - AWS subnet
+30:35 - creating nat and internet gateway 
+33:30 - terraform try functions 
+39:50 - creating a route table
+45:25 - public route table 
+59:25 - adding route table to the subnets
+1:02:20 - create a nat gateway 
+1:12:33 - giving to appropriate subnets 
+1:15:05 - creating two instances 
+1:21:45 - VPC peering 
+1:25:09 - adding route table 
