@@ -1,0 +1,11 @@
+00:00 - recalling yesterday session 
+00:50 - create a new VPC 
+04:10 - creating subnets 
+12:30 - creating route tables 
+20:14 - local files 
+23:49 - terraform map to string values 
+46:55 - JSON query 
+51:26 - values function 
+1:02:08 - for expressions 
+1:14:17 - giving count = 1 or 0 
+1:26:47 - peering route on default route tables 
