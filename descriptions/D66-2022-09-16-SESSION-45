@@ -1,0 +1,11 @@
+00:00 - recalling yesterday session 
+0:45 - rabbitMQ spot instances 
+02:20 - load the schema 
+04:08 - install mongoDB and mySQL clients 
+13:20 - loading the schema in mongoDB
+18:08 - creating the app components 
+25:40 - cart component 
+32:45 - create a AWS resource 
+38:32 - terraform data source 
+42:45 - AWS ec2 tag 
+47:17 - connecting instances 
