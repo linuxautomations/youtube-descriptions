@@ -1,0 +1,11 @@
+00:00 - recalling yesterday session 
+00:30 - setup the application with terraform 
+01:35 - frontend 
+12:52 - create a security group 
+18:55 - add an instance to the target group 
+23:50 - load balancer 
+29:00 - add listner 
+37:22 - compare the load balancer setting 
+42:50 - network load balancer 
+53:49 - enabling logs 
+1:01:24 - frontend test 
