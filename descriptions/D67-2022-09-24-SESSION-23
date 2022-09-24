@@ -1,0 +1,18 @@
+00:00 - recalling yesterday session 
+03:10 - create an instance 
+05:00 - install ansible 
+08:35 - start nginx service 
+12:00 - remove a directory
+14:21 - extract a zip file ansible 
+23:20 - copy the configuration file 
+29:30 - mongodb
+34:29 - update mongodb listen address
+35:22 - start mongodb service 
+40:32 - load catalogue schema 
+43:00 - loops 
+45:56 - print debug list of values loop 
+54:20 - tasks
+57:30 - add roboshop application user 
+1:03:35 - creating a catalog 
+1:12:15 - copy system service file 
+1:14:00 - start component service 
