@@ -1,0 +1,15 @@
+00:00 - recalling yesterday session 
+02:00 - payment 
+05:00 - running the loop command 
+07:30 - roboshop setup 
+17:00 - roboshop private password 
+18:35 - running as a root user 
+24:15 - install python 
+26:16 - add roboshop application user 
+30:35 - change UID and GID in app configuration 
+41:00 - change the password for user 
+47:12 - set hostname 
+51:05 - handlers 
+54:05 - restart nginx service 
+58:30 - ansible certificate topics 
+1:04:50 - ansible galaxy
