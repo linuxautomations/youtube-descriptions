@@ -1,0 +1,14 @@
+00:00 - recalling previous topic 
+03:24 - parameter and secret managment 
+07:40 - general tools 
+23:55 - how machine will pull parameters ans secrets 
+38:50 - create parameter 
+44:40 - create a role 
+50:00 - add permissions 
+50:30 - accessing all the secrets and parameter 
+53:03 - aws secret manager cli 
+55:20 - ansible documentation 
+56:50 - demo on pulling aws secrets and parameters 
+1:08:15 - how to get a parameter 
+1:13:15 - lookup filter ansible 
+1:16:05 - transform files into dict 
