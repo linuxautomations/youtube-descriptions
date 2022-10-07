@@ -1,0 +1,13 @@
+00:00 - recalling yesterday session 
+01:50 - creating the values 
+01:50 - multi enviornment 
+12:10 - platform approach and project approach 
+22:40 - multi account strategy 
+24:47 - company aws organisation 
+43:15 - try to setup the server in single enviornment 
+55:10 - template 
+1:09:11 - getting all the parameter from parameter store 
+1:12:50 -  creating parameter
+1:13:32 - run ansible pull 
+1:16:50 - install sudo pip3.9
+1:23:05 - loops 
