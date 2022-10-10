@@ -1,0 +1,18 @@
+00:00 - recalling yesterday session 
+01:10 - ensuring DNS is updated 
+03:10 - understanding pipelines is running against what 
+04:17 - ENV command 
+08:36 - code quality 
+10:53 - use condition 
+13:30 - check the variable is defined or not 
+16:25 - check the quality of code
+25:15 - verify the service 
+26:25 - sonar scanner 
+34:45 - custom quality gate 
+38:20 - crediantial of sonar 
+49:35 - roboshop components
+56:12 - creating one more file 
+59:40 - scripted pipeline 
+1:09:02 - code checkout 
+1:15:14 - checking the reason for the failure of sonar 
+1:20:46 - checkmarx
