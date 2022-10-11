@@ -1,0 +1,22 @@
+00:00 - recalling yesterday session 
+01:15 - enabling the monitoring 
+04:35 - four golden signal from goggle SRE
+05:54 - monitoring distributed system 
+16:20 - log format 
+19:52 - remote user 
+22:26 - status 
+23:03 - HTTP referer
+25:30 - HTTP x forwarded 
+26:26 - nginx log format responce time
+32:17 - update the nginx configuration 
+36:45 - traffic 
+38:11 - errors 
+39:15 - HTTP status code 
+43:18 - saturation 
+52:28 - prometheus 
+57:18 - why monitoring 
+1:02:23 - what prometheus does 
+1:04:16 - what prometheus does not do
+1:08:17 - prometheus pulls metrics 
+1:13:45 - prometheus architecture 
+1:15:00 - installation 
