@@ -1,0 +1,24 @@
+00:00 - recalling yesterday session 
+00:27 - how to upload artifacts 
+02:00 - sonatype nexus 
+07:05 - nexus repository manager 
+09:46 - create a repository 
+14:05 - sonatype nexus provider 
+18:38 - getting list of repository 
+19:27 - making the script 
+26:30 - nexuscli 
+38:41 - add the parameters 
+40:52 - deleting the entry 
+46:57 - create roboshop repo 
+48:12 - test the repo is working or  not 
+57:29 - upload artifact 
+1:07:56 - prepare artifacts 
+1:09:26 - create a zip file 
+1:11:25 - cart component 
+1:13:07 - store the nexus user and password 
+1:15:25 - upload the nexus server 
+1:18:06 - catalogue component 
+1:21:46 - prepare artifact and publish it 
+1:23:50 - shipping component 
+1:25:39 - payment component 
+1:29:04 - frontend component 
