@@ -1,0 +1,19 @@
+00:00 - recalling yesterday session 
+01:09 - launch an instance (prometheus)
+02:25 - launch an instance (nodes)
+06:18 - alerts 
+06:24 - graph
+07:00 - status 
+09:23 - evaluation interval 
+15:24 - static config 
+16:30 - add own configuration to the node 
+22:17 - copy prometheus configuration 
+26:00 - restart prometheus 
+31:06 - wait for prometheus service to start 
+38:19 - install grafana 
+41:28 - add a graph 
+49:35 - dynamic configuration 
+57:04 - relabelling 
+1:01:51 - bring only project related nodes 
+1:07:54 - add one more tag 
+1:09:52 - install prometheus node exporter 
