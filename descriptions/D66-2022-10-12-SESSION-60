@@ -1,0 +1,15 @@
+00:00 - recalling yesterday session 
+01:00 - issue for the failure of terraform 
+02:15 - getting parameter in scripted pipeline
+03:47 - ansicolor jenkins 
+07:50 - make some changes in ansible code 
+17:10 - getting the password 
+21:23 - create app directory 
+29:35 - grab default version if app version is not defined
+34:00 - declare app version if not defined 
+42:45 - pipeline jobs 
+54:44 - run with debug module 
+1:03:30 - applying the load 
+1:04:54 - text parameter 
+1:09:50 - getting the credentials 
+1:10:50 - run the AWS command 
