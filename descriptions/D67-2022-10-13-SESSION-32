@@ -1,0 +1,19 @@
+00:00 - recalling yesterday session 
+00:42 - create the enviornment so prometheus can connect to it 
+01:38 - adding tags 
+04:47 - deleting the data 
+10:00 - what is vectors and scaler 
+12:49 - metrics are vectors
+14:59 - metrics types 
+23:10 - functions 
+37:04 - calculate the total memory 
+42:05 - histogram 
+46:38 - calculate average value in prometheus 
+53:02 - create a new dashboard 
+53:46 - projecting data 
+1:06:40 - load gen 
+1:08:49 - autorefresh 
+1:12:45 - pie chart 
+1:14:58 - memory calculation 
+1:17:34 - convert number into percentile 
+1:19:23 - memory total 
