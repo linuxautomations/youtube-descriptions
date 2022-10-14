@@ -1,0 +1,12 @@
+00:00 - recalling yesterday session 
+02:00 - record rules 
+14:42 - alerting rules 
+22:00 - ansible ignore a block of templates 
+31:31 - alert manager 
+43:18 - restart alert manager 
+53:46 - start the nod exporter 
+57:45 - cart component memory usage 
+1:01:35 - checking the monitoring service is down or not 
+1:05:35 - cart service down 
+1:07:00 - jinja 
+1:10:00 - applying the configuration 
