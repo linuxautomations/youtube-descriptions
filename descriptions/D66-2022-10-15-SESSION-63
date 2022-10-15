@@ -1,0 +1,20 @@
+00:00 - recalling yesterday session 
+01:32 - creating instance 
+05:29 - reason for the failure of shipping 
+07:50 - shipping component 
+09:48 - setup the application 
+14:23 - create auto scaling group 
+20:45 - spot instance request 
+23:36 - destroy the resources which is created 
+25:49 - apply directory immutable 
+29:10 - load the jnkin file 
+40:19 - declare the variable 
+45:57 - add the instances to target group 
+55:28 - enhance the script 
+1:03:12 - providing the values 
+1:08:43 - DOCDB endpoint 
+1:11:32 - getting password and username of DOCDB
+1:12:29 - using username and password of DOCDB 
+1:22:32 - delete the cart 
+1:25:05 - launch the instance along with user data script 
+1:29:18 - checking the values coming or not 
