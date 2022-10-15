@@ -1,0 +1,9 @@
+00:00 - recalling yesterday session 
+05:17 - logs 
+19:34 - logs writing to common log file 
+34:07 - how logs ships from programe to log files 
+36:42 - rsylog config to store only raw message to a file
+49:49 - collecting the logs and ship it at cenralized place 
+52:57 - update the rsylog config 
+53:49 - restart rsylog 
+57:59 - setup rsylog config 
