@@ -1,0 +1,17 @@
+00:00 - recalling yesterday session 
+02:52 - generate 2 machines 
+08:35 - auto scaling 
+16:40 - start instance refresh 
+18:39 - launch an AMI 
+28:40 - module sources 
+30:24 - launch an instance 
+32:41 - create a security group 
+40:21 - getting the reason for the failure 
+52:48 - create all parameters 
+57:17 - change in ami module
+1:05:49 - convert into an AMI 
+1:11:04 - terraform destroying 
+1:12:05 - remove a resource from terraform state 
+1:14:48 - run terraform destroying manually 
+1:16:56 - create a tag for each component 
+1:24:38 - upload the artifact 
