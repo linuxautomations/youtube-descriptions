@@ -1,0 +1,13 @@
+00:00 - Recalling yesterday session 
+00:50 - trouble shoot the logs 
+05:21 - apply lab auto ansible 
+08:04 - install botocore and boto3
+15:17 - modify IAM role 
+17:37 - how the log lines are coming 
+27:23 - debug 
+34:59 - how to make ansible wait for port to be ready 
+50:15 - socket files in linux 
+53:57 - delete and recreate index pattern 
+1:01:25 - getting some graphs 
+1:04:40 - how to generate custom name 
+1:15:09 - how much traffic is coming 
