@@ -1,0 +1,20 @@
+00:00 - recalling yesterday session 
+00:35 - containers
+02:30 - run the application 
+07:31 - compute evolution 
+11:20 - application characterstics 
+17:31 - control groups and name spaces 
+21:23 - docker is famous , but why?
+25:04 - docker bring immutability 
+29:24 - low level runtime and high level runtime 
+32:25 - kubernetes 
+40:52 - podman 
+43:21 - installation of docker 
+49:00 - docker image 
+51:12 - docker image types 
+53:59 - docker run 
+1:01:35 - docker port expose 
+1:02:58 - docker volume mapping 
+1:11:13 - docker environment variables
+1:12:05 - container resources 
+1:18:25 - health checks
