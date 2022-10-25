@@ -1,0 +1,15 @@
+00:00 - recalling yesterday session 
+00:36 - making job for each component 
+03:52 - create folders 
+07:33 - build job file from template 
+09:10 - include multi branch for task file 
+19:38 - generate the pipeline for component 
+27:32 - shared libraries written in two ways 
+34:00 - impoert of libraries 
+35:28 - script console 
+42:45 - groovy loops 
+47:15 - defining declarative pipeline 
+48:13 - define cart function 
+52:54 - dry the stage file 
+57:44 - scripted pipeline 
+1:04:42 - checking which variable is holding the data 
