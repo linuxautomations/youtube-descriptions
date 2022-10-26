@@ -1,0 +1,15 @@
+00:00 - recalling yesterday session 
+02:00 - set of pods 
+02:56 - creating multiple pods 
+13:05 - create a helm chart 
+17:11 - deployment
+21:42 - labels and selectors
+27:26 - install the helm chart for each component 
+44:13 - collect end points information 
+45:28 - config map 
+52:12 - secrets 
+57:06 - how kubernetes pod fetch the values from parameter store 
+1:01:41 - operator 
+1:10:38 - create a store for value 
+1:26:04 - AWS secret manager 
+1:30:24 - create a seprate secrets for each component 
