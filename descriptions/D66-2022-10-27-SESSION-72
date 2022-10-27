@@ -1,0 +1,14 @@
+00:00 - recalling yesterday 
+00:42 - reason for the failure of terraform 
+03:19 - create the sectrets  for all components
+16:50 - update the secrets and values 
+27:49 - access the frontend by the outside world 
+28:47 - reverse proxy 
+32:19 - rerun the pipelines 
+34:10 - declare the configuration 
+49:29 - sending the logs 
+55:35 - how to scale automatically 
+1:00:49 - installing the kubernetes metrics server 
+1:03:02 - name spaces 
+1:04:49 - horizontal part auto scalling 
+1:16:50 - determine pod is healthy or not 
