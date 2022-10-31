@@ -1,0 +1,15 @@
+00:00 - recalling yesterday session 
+02:14 - infrastructure as a code (IaC)
+05:21 - why IaC 
+08:30 - terraform 
+13:49 - how hcl will have the code 
+20:05 - terraform files 
+22:50 - terraform command 
+26:36 - installation of terraform 
+37:40 - outputs
+41:50 - variable 
+46:50 - variables- data types 
+48:20 - variable type 
+54:50 - variables inputs 
+1:02:02 - variables TFVARS 
+1:03:35 - variable precedance 
