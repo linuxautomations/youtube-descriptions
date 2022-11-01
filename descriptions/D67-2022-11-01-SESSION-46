@@ -1,0 +1,11 @@
+00:00 - recalling yesterday session 
+01:30 - provider 
+09:41 - resources 
+22:51 - creating a machine 
+30:13 - terraform code identation 
+39:49 - creating a instance with one security group
+49:41 - what happen if terraform apply multiple times 
+51:15 - terraform state file 
+1:01:27 - terraform functions 
+1:09:09 - lookup functions 
+1:12:12 - terraform datasources 
