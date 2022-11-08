@@ -1,0 +1,10 @@
+00:00 - recalling yesterday session 
+02:10 - creating a local module 
+14:00 - launch an  instance 
+15:46 - workstation ( bastion node )
+18:30 - create a peer connection 
+28:00 - VPC peering connection 
+40:47 - create a seprate route table 
+47:46 - associating the subnets to the route table
+1:01:32 - sending the values inside the module 
+1:17:42 - change of architecture 
