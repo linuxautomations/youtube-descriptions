@@ -1,0 +1,12 @@
+00:00 - recalling yesterday session 
+01:57 - elasticache terraform 
+10:54 - declaring the inputs 
+24:52 - creating the subnets 
+29:23 - checking the subnet is working or not 
+31:48 - adding the route table 
+35:36 - creating the gateway connection 
+43:42 - attach the gateway to the route table 
+49:20 - peering connection 
+1:05:40 - creating seprate routetable and adding route entry 
+1:08:09 - the life cycle meta argument
+1:12:12 - changing the VPC architecture of docDB 
