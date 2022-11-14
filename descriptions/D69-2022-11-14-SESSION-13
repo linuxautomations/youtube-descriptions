@@ -1,0 +1,21 @@
+00:00 - recalling yesterday session 
+02:05 - problem statement 
+04:30 - server goes down 
+08:00 - application has to be over SSL
+09:30 - how do we handle DB changes 
+10:24 - sudden increase in load 
+11:30 - infra creatiin to be automated 
+15:55 - server cannot be widely open to public 
+17:30 - application password 
+19:00 - backup of data 
+19:30 - high availbility of application 
+21:02 - manual setup of apps 
+23:03 - change in IP address 
+32:22 - change in development code 
+36:37 - strategy towards app deployment 
+40:00 - logs in centralized helps 
+48:40 - solution towards problem statement 
+55:25 - consul 
+1:01:15 - route 53 
+1:03:24 - register a domain 
+1:14:58 - create a hosted zone 
