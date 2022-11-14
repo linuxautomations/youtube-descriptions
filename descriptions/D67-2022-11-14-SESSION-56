@@ -1,0 +1,14 @@
+00:00 - recalling yesterday session 
+00:29 - changing the structure of VPC 
+06:42 - picking up the public subnet 
+09:20 - see how the data is coming 
+18:12 - sending the subnets as app subnets
+23:02 - flatten function
+33:40 - module elasticache 
+36:06 - elasticache terraform 
+50:47 - rabbitMQ 
+1:01:44 - setup the application based component 
+1:02:21 - create a seprate repository 
+1:03:14 - cart 
+1:10:30 - adding autoscaling group 
+1:12:27 - create autoscaling group 
