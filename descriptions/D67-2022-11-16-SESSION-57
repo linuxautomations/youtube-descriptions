@@ -1,0 +1,14 @@
+00:00 - recalling yesterday session 
+01:22 - creating one auto scaling group 
+05:43 - user data 
+08:00 - install ansible 
+11:43 - sending the information 
+22:54 - create IAM pilocy terraform 
+24:52 - create IAM role 
+26:15 - run IAM to verify its working or not 
+42:47 - launching the instance 
+47:32 - nexus 
+54:38 - attach the VPC to hosted zone 
+1:00:24 - terminate auto scaling group
+1:06:10 - change the security group configuration
+1:13:30 - user component 
