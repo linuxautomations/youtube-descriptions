@@ -1,0 +1,11 @@
+00:00 - recalling yesterday session 
+01:56 - getting frontend subnets 
+06:14 - how to send traffic to multi instances 
+10:15 - create one load balancer 
+17:32 - creating security group 
+31:08 - merging two maps 
+39:31 - merge maps inside list of terraform 
+48:49 - how to merge maps with same key 
+1:07:15 - start attaching the instances to the load balancer
+1:09:58 - create a target group 
+1:15:44 - attaching the instances 
