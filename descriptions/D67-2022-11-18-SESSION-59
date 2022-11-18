@@ -1,0 +1,13 @@
+00:00 - recalling yesterday session 
+00:40 - how to attach target group to a load balancer 
+01:49 - create a listner 
+03:45 - writing the rules 
+08:23 - attach the target group inside a listner ARN 
+17:00 - create a listner rules 
+39:15 - try function 
+43:00 - getting a certificate 
+51:24 - sending a listner as an output 
+1:01:20 - frontend instance 
+1:06:08 - edit parameter 
+1:10:23 - catalogue 
+1:14:31 - secrets manager
