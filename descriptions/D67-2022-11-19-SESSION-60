@@ -1,0 +1,15 @@
+00:00 - recalling yesterday session 
+00:49 - fixing the issues 
+07:10 - amazon elasticache 
+08:48 - AWS docdb cluster 
+24:35 - created one security groupand attach to cluster 
+26:28 - schema 
+28:04 - mongodb 
+34:22 - load SSH 
+35:05 - download the docdb pem file 
+38:49 - change the connection strings 
+47:25 - run the ansible code 
+54:25 - shipping 
+59:09 - connect to RDS 
+1:04:17 - comment out the schema 
+1:14:21 - adding the instances 
