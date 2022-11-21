@@ -1,0 +1,15 @@
+00:00 - recalling yesterday session 
+01:00 - fixing the issue why cart is not working 
+07:39 - update the cart service 
+11:15 - going with RDS schema 
+18:05 - creating route 53 configuration 
+20:10 - pull latest DNS record 
+34:57 - connect to the server and excute bunch of command regarding rabbitmq 
+40:22 - destroy the instance and create it 
+46:14 - terraform provisioner remote -exac provisions 
+58:51 - going with resource 
+1:00:47 - attach with IAM Instance 
+1:08:20 - load test 
+1:10:42 - pipeline jobs 
+1:15:53 - create a single branch pipeline 
+1:22:04 - creating spot instances 
