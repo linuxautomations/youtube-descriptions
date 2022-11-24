@@ -1,0 +1,18 @@
+00:00 - recalling yesterday session 
+01:07 - finding that application is working or not 
+06:10 - deleting all instances and recreated it 
+23:00 - frontend target group 
+26:18 - deployed build with parameters [catalogue component]
+29:50 - shipping component 
+32:13 - ansible run one node at a time 
+38:35 - clean up the old content and copy it 
+39:40 - rename directory 
+47:58 - load test 
+52:00 - why user component is failing 
+1:03:40 - what is mutable approach 
+1:07:43 - strategy used 
+1:09:22 - application load 
+1:12:40 - failures observed 
+1:18:51 - high availability 
+1:19:28 - scaling 
+1:20:10 - deployment time 
