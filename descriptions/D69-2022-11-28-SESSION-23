@@ -1,0 +1,17 @@
+00:00 - recalling yesterday session 
+01:36 - problem with shell scipting 
+03:22 - introduction to ansible playbook 
+07:01 - markup language 
+13:46 - any markup language 
+16:17 - JSON 
+20:41 - YAML 
+25:45 - ansible playbook
+31:04 - creating new repository 
+45:02 - ansible pre defined from user 
+50:10 - variable precedence 
+52:45 - ansible pre defined variable (facts)
+57:09 - ansible run time variable 
+1:04:15 - roles 
+1:08:24 - variable precedence while role are used 
+1:09:30 - variable data type 
+1:16:59 - when to quote for values
