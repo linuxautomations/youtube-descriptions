@@ -1,0 +1,15 @@
+00:00 - recalling yesterday session 
+01:23 - elk cluster 
+03:23  -start writing yaml file for diffrent application 
+04:32 - run the deployment 
+16:04 - cart component 
+21:00 - catalogue component 
+26:03 - helm config error 
+33:47 - liveness proves and redness proves 
+39:14 - image full policy 
+44:40 - configmaps 
+49:25 - AWS parameter store with eks 
+1:03:50 - secrets code csl 
+1:05:35 - placing some conditions 
+1:20:45 - managing kubernetes secrets with AWS secrets manager 
+1:23:08 - going with external secrets 
