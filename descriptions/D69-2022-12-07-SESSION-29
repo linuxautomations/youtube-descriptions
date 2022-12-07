@@ -1,0 +1,11 @@
+00:00 - recalling yesterday session
+00:40 - resolving the issue of mysql 
+13:11 - cancel the mysql instance and reload it 
+21:45 - how to grant remote access permission to mysql service for user 
+26:03 - copy app user setup SQL 
+32:29 - load the schema 
+33:55 - shipping 
+36:35 - payment 
+43:01 - update the application parameter file 
+55:55 - rabbitmq 
+1:09:36 - reload the schema
