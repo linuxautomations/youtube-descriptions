@@ -1,0 +1,19 @@
+00:00 - recalling yesterday session 
+02:11 - pull mechanism 
+02:20 - start with frontend
+08:15 - create a role 
+16:52 - handler 
+22:18 - problem statement for application password and parameters 
+29:36 - server is not reachable or server goes down 
+36:30 - monitoring 
+39:00 - four golden signals from google SRE 
+41:28 - why monitoring 
+44:15 - what prometheus does 
+46:28 - what prometheus does not do 
+50:23 - prometheus pulls metrics 
+54:46 - prometheus architecture 
+55:43 - installation 
+1:00:54 - monitor the node 
+1:07:00 - start prometheus config 
+1:09:04 - setup prometheus server config 
+1:32:13 - check service is running 
