@@ -1,0 +1,13 @@
+00:00 - recalling yesterday session 
+00:42 - deploy the application 
+04:34 - nginx ingress in elk 
+06:35 - helm stable 
+10:25 - load balancer 
+14:57 - adding the annotation 
+23:30 - expose the service to the outside world 
+29:10 - frontend 
+42:46 - deploy the frontend
+47:20 - creating DNS record
+1:00:04 - scale the application 
+1:06:35 - enabling the HPA 
+1:10:05 - support for metrics API 
