@@ -1,0 +1,16 @@
+00:00 - recalling yesterday session 
+01:27 - fetching the information in the foem of alerts 
+05:51 - adding the node 
+09:10 - install node exporter 
+22:18 - relabelling 
+27:22 - how prometheus does the monitoring 
+29:00 - install grafana 
+33:05 - getting data in different manner 
+37:07 - collect the data and project it 
+40:50 - starting with frontend component 
+45:47 - check wether node is up or not 
+48:47 - start filtering 
+56:40 - getting node memory 
+1:02:35 - calculate the percentage used 
+1:09:30 - monitor the percentage used 
+1:13:15 - map the thing or particular value 
