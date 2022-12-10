@@ -1,0 +1,22 @@
+00:00 - recalling yesterday session 
+04:54 - edit nodes
+08:00 - updating DNS record 
+14:50 - doing a CICD of the application and see the behaviour 
+19:30 - going with shipping 
+32:28 - prepare a report 
+34:20 - containerized approach 
+41:24 - pod anti-affinity
+47:10 - placement group 
+49:00 - revisit what we have done 
+49:17 - how you handled sudden load 
+49:40 - what if server goes down 
+50:03 - spot instance goes down 
+50:26 - wide open of firewall 
+51:03 - servers are public 
+51:30 - data security 
+54:00 - DB backups 
+55:37 - cloud cost saving 
+55:53 - deployment strategy 
+56:17 - traffic to multiple server 
+56:43 - app security 
+1:02:00 - revising what we learned and where are we 
