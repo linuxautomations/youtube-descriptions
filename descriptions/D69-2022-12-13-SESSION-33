@@ -1,0 +1,16 @@
+00:00 - recalling yesterday session 
+01:14 - project requirement 
+02:50 - application down alert 
+04:17 - getting alert for components 
+08:05 - monitor the service 
+12:44 - cart component 
+17:00 - catalogue component 
+21:40 - reload prometheus 
+30:41 - reload service 
+43:51 - generate promtheus alert file locally 
+48:55 - copy file from one server to another 
+59:48 - reload prometheus service 
+1:07:04 - what type of data is in prometheus 
+1:07:34 - counter 
+1:09:29 - gauge 
+1:11:17 - histograms 
