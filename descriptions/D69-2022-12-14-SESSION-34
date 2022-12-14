@@ -1,0 +1,17 @@
+00:00 - recalling yesterday session 
+01:30 - the four golden rules 
+02:16 - where to get the information 
+07:46 - get response time 
+09:07 - collect the information 
+17:48 - logs
+18:30 - logs writing to common config 
+24:46 - RSYSLOG in OS 
+28:45 - how log ships from program to log files 
+33:18 - copy rsyslog  config
+34:00 - restart rsyslog 
+43:33 - HTTP refreal
+45:52 - ships the log to elk 
+47:27 - elk 
+58:53 - logs type 
+1:02:00 - vector 
+1:04:15 - installation 
