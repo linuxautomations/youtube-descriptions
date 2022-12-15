@@ -1,0 +1,18 @@
+00:00 - recalling yesterday session 
+03:18 - elk 
+04:09 - installing filebeat 
+06:40 - copy yom repo file for filebeat 
+07:33 - install filebeat 
+10:30 - copy filebeat config
+11:15 - restart filebeat 
+14:51 - log files for nginx frontend component 
+17:46 - generate logs
+22:11 - include filebeat 
+23:07 - update logstash config
+25:25 - restart logstash 
+26:03 - check logstash 
+33:12 - copy nginx config file
+38:05 - gnok constructor 
+46:50 - logstash plugin 
+51:42 - delete index management and create new 
+54:48 - visualize library 
