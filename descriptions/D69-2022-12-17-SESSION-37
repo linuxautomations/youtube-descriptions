@@ -1,0 +1,13 @@
+00:00 - recalling yesterday session 
+05:18 - connect to the catlogue and restert the services 
+09:34 - generate the load 
+12:55 - knowing the traffic of each component 
+15:20 - grok online pattern maker 
+20:42 - adding the time stamp 
+30:55 - adding the filters 
+33:33 - seeing the latency of each application 
+39:42 - getting the errors of each components 
+43:50 - validation of particular information from logs 
+48:11 - logstash filters 
+51:33 - going with prometheus server 
+58:45 - doing the measures
