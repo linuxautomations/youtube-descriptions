@@ -1,0 +1,17 @@
+00:00 - recalling yesterday session 
+02:30 - going with multibranch pipeline 
+05:18 - trigger the pipeline if there is any change in repository 
+09:17 - report to URL if there is any change 
+11:35 - how to create new tag 
+14:05 - build tag on multibranch pipeline 
+25:25 - generate random ID 
+31:26 - publish an artifact if there is any tag 
+36:20 - check if variables exist or not 
+43:01 - publish a release 
+44:13 - make a zip file and upload to nexus 
+53:25 - version semantics 
+58:40 - cart component 
+59:50 - catalogue 
+1:06:35 - shipping 
+1:09:35 - payment 
+1:13:24 - frontend 
