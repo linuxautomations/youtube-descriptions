@@ -1,0 +1,20 @@
+00:00 - recalling previous session 
+00:42 - download particular artifact in server 
+04:34 - download app content and extract it 
+12:00 - apply the parameters 
+14:35 - create app location 
+16:16 - run all roboshop component 
+17:45 - where we start and where are we 
+44:06 - why IAC 
+50:55 - terraform 
+53:35 - HCLv2 
+55:22 - terraform files 
+57:15 - terraform command 
+59:15 - outputs 
+1:04:15 - terraform datasources 
+1:10:35 - variables 
+1:12:52 - variable - data type 
+1:13:55 - variables types 
+1:15:29 - how to refer the values 
+1:18:49 - terraform functions
+1:20:21 - element function 
