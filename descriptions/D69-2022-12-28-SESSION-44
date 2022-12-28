@@ -1,0 +1,15 @@
+00:00 - recalling yesterday session 
+04:10 - variable inputs 
+05:15 - variable TFVARS 
+10:12 - variable precedence 
+12:11 - provider 
+13:55 - resources 
+27:26 - terraform code identation 
+28:04 - create instance with one security group 
+33:10 - what happen to terraform if it run multiple times 
+35:32 - terraform state file 
+44:03 - terraform modules 
+48:41 - share the data between one module to another 
+55:40 - terraform loops 
+1:12:58 - terraform conditions 
+1:17:05 - best practice terraform code 
