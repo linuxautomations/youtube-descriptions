@@ -1,0 +1,15 @@
+00:00 - recalling yesterday session 
+01:45 - going with pipelines 
+02:55 - create some jobs 
+09:57 - run the repo in automated manners 
+24:25 - going with declarative pipeline 
+36:04 - batch plugin 
+44:04 - getting choice parameter inside scripted parameter 
+53:51 - approval step for jenkins 
+1:01:17 - create instances 
+1:03:52 - getting AMI 
+1:07:34 - create DNS record 
+1:11:33 - getting IP address
+1:13:27 - run the ansible after connect to instances 
+1:14:35 - terraform provisionrs 
+1:17:17 - create a dummy resource 
