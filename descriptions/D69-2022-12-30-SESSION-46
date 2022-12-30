@@ -1,0 +1,18 @@
+00:00 - recalling yesterday session 
+01:25 - servers can not be widely open to public 
+03:34 - connect to particular instances privately 
+04:15 - VPC 
+09:40 -  network classes  
+13:08 - private network 
+15:45 - network cidr calculation 
+17:30 - create VPC 
+21:10 - subnets 
+35:32 - high availbility purpose
+37:46 - create the server
+38:38 - accessing a machine 
+46:06 - bastion node 
+51:41 - peering connection 
+1:00:08 - route tables 
+1:08:22 - create VPC with terraform 
+1:11:45 - going with seprate module for each VPC 
+1:23:11 - going with subnets 
