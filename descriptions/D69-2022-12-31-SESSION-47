@@ -1,0 +1,14 @@
+00:00 - recalling yesterday session 
+02:50 - updating DNS 
+04:40 - create routes in the route table 
+16:44 - how to get the internet to this machine 
+19:35 - NAT gateway 
+23:51 - public subnets 
+24:22 - private subnet 
+25:23 - how to get internet to the instances in private subnets 
+30:40 - visual subnet calculators 
+33:51 - declare variable VPC 
+37:16 - create two subnets 
+38:28 - add a route tables 
+43:45 - attach the route to public and private subnets 
+50:30 - adding gateways to the route tables 
