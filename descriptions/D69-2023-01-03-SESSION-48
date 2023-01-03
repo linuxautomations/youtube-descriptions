@@ -1,0 +1,16 @@
+00:00 - recalling yesterdays session 
+01:35 - AWS landing zone 
+07:00 - AWS control tower 
+14:35 - AWS landing zone - employee authentication 
+18:15 - AWS organisation switch role 
+20:45 - AWS landing zone - network flow 
+28:30 - standard VPC structure 
+29:40 - DB subnets 
+35:00 - push the code 
+39:35 - going with instance creation 
+45:23 - creating subnets in appropraite availbility zone 
+50:15 - test the particular instance connection 
+51:15 - allowed public instance to connect to SSH 
+52:00 - did not allowed public subnets to reached to database 
+58:46 - create a nacl 
+1:12:49 - visualizing where are we 
