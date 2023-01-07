@@ -1,0 +1,11 @@
+00:00 - recalling yesterday session 
+00:30 - run the programme code 
+16:07 - revise the digram 
+19:48 - auto scaling group
+22:35 - remove spot instance and go with auto scaling group 
+46:10 - seeing the behaviour of the auto scaling group if we have multiple server 
+48:16 - frontend setup 
+50:28 - exposed the server to the outside world 
+52:20 - load balancer 
+1:02:07 - send the app subnet 
+1:09:08 - target groups 
