@@ -1,0 +1,13 @@
+00:00 - recalling yesterday session 
+03:08 - see the frontend webpage on the UI 
+14:00 - opend the 80 port of frontend 
+16:33 - why frontend is unhealthy 
+24:30 - terraform condition 
+29:40 - create the policy 
+36:01 - create a role 
+36:47 - attach the policy with role 
+40:24 - delete autoscaling group and recreate it 
+55:45 - health check 
+58:55 - refer the diagram to get to know where are we 
+1:05:25 - creating load balancer 
+1:10:26 - create two security group 
