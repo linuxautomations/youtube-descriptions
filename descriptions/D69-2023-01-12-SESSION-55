@@ -1,0 +1,15 @@
+00:00 - recalling yesterday session 
+00:12 - why code is failing 
+01:09 - checking out elasticache issue 
+06:58 - AWS elasticache cluster 
+09:50 - rerun the code 
+21:47 - going with catalog server 
+29:04 - mongo network error and why we getting it 
+36:19 - taking frontend server ip address 
+39:55 - aws target group 
+42:10 - applying the changes 
+49:00 - doing some modification 
+51:20 - run the ansible 
+54:10 - how to load the schema 
+1:03:51 - download docdb pen file 
+1:11:40 - revise the user config 
