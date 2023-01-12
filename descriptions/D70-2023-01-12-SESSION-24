@@ -1,0 +1,12 @@
+00:00 - recalling yesterday session 
+01:52 - usage of ansible 
+03:25 - ansible inventory file 
+04:10 - how to connect to server 
+07:04 - what to do in machine after connecting 
+07:35 - modules collection 
+27:13 - write a file that support the multiple task 
+31:00 - intro to ansible playbook 
+46:16 - any markup language 
+47:29 - YAML - yet another markup language 
+1:00:55 - yaml file extension 
+1:01:43 - ansible playbook 
