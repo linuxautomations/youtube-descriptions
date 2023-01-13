@@ -1,0 +1,15 @@
+00:00 - recalling yesterday session 
+02:36 - variable in ansible 
+08:12 - declare the variable in task level 
+10:34 - declare in another file 
+13:13 - ansible pre defined from user 
+17:10 - variable precedence 
+29:12 - ansible predefined variable
+35:35 - ansible run time varriable 
+38:38 - when to quote for values 
+49:27 - roles 
+56:51 - variable precedence while roles are used 
+59:50 - variable data type 
+1:09:02 - create a repo
+1:10:25 - roboshop setup 
+1:13:25 - getting machines 
