@@ -1,0 +1,16 @@
+00:00 - recalling yesterday session 
+01:20 - load balancer 
+03:56 - delete the auto scaling group and rerun it 
+21:34 - rerun the ansible playbook
+22:08 - load schema failure
+24:15 - add to cart
+33:37 - delete the reddis cluster group 
+51:55 - going with shipping component 
+53:33 - going with RDS 
+54:41 - apply the changes 
+1:05:26 - going with payment server 
+1:13:04 - adding cartport and userport
+1:20:45 - ensuring that passowrd is correct or not 
+1:23:10 - rerun the server 
+1:26:50 - going with SSH
+1:27:49 - fix the schema for mysql
