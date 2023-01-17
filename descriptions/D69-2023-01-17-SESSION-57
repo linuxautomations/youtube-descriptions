@@ -1,0 +1,11 @@
+00:00 - recalling orevious session 
+00:20 - configure the parameters 
+01:30 - replacing the dev with prod 
+30:20 - cross check all the resources 
+34:20 - tunning the IMA profile 
+40:10 - edit policy 
+43:37 - why nginx failing 
+47:18 - deleting auto scaling group 
+1:01:15 - going with target group 
+1:02:00 - why parameters is throwing an errors 
+1:11:05 - modify IAM role 
