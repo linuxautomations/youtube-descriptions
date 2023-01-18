@@ -1,0 +1,15 @@
+00:00 - recalling yesterday session 
+05:00 - install redis repo 
+06:39 - update redis listen address 
+08:05 - yum module ansible 
+09:50 - checking the listen port 
+11:25 - iterated the task 
+18:19 - user component 
+30:04 - add to cart 
+32:54 - ansible conditions 
+47:00 - doing little improvement in schema 
+1:03:52 - verify the thing is working or not 
+1:05:17 - disable mysql 8 version 
+1:06:40 - copy mysql repo file 
+1:07:45 - install mysql server 
+1:18:20 - password status 
