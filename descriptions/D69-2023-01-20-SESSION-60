@@ -1,0 +1,12 @@
+00:00 - recalling yesterday session 
+00:30 - checking application is working or not 
+07:00 - payment component 
+11:57 - how many database connection comes to RDS 
+16:55 - going with shipping component 
+31:19 - load test 
+40:26 - auto scaling group 
+50:19 - checking why one node is unhealthy 
+53:00 - doing the instance refresh 
+1:05:39 - run the load test again 
+1:08:27 - get into instance refresh again 
+1:18:35 - observation with respect to mutable as well as immutable approach 
