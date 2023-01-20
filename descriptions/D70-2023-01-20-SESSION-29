@@ -1,0 +1,18 @@
+00:00 - recalling yesterday session 
+00:50 - what we have done so far 
+10:16 - parameter management 
+12:20 - secrets manager 
+14:10 - amazon parameter management 
+17:12 - spring boot config server 
+26:57 - creating one parameter and access the parameter store from ansible 
+35:44 - parameter store 
+38:36 - create all parameter with simple ansible playbook 
+46:35 - dealing with all parameters 
+56:29 -  give a try that it was working or not 
+1:00:06 - update the parameters 
+1:07:42 - going with catalogue 
+1:10:03 - payment component 
+1:11:02 - shipping component 
+1:11:48 - user component 
+1:13:35 - frontend 
+1:17:21 - ansible roles 
