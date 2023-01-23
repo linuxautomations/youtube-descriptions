@@ -1,0 +1,19 @@
+00:00 - recalling yesterday session 
+01:00 - what we had done 
+04:05 - triger the product enviornment 
+06:10 - containers 
+08:30 - computer evolutions 
+13:40 - application characterstics 
+20:05 - LXC 
+21:18 - docker is famous ,but why?
+29:38 - docker installations 
+32:30 - docker image 
+36:52 - docker image tag 
+42:05 - docker run 
+47:18 - docker port expose 
+49:35 - docker volumes mapping 
+51:20 - docker enviornment variables 
+53:20 - writing docker files 
+1:01:36 - run it on HTTPS port
+1:14:25 - push the code 
+1:21:48 - how to avoid intrusions happens to our applications 
