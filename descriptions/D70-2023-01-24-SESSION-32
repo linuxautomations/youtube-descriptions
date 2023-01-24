@@ -1,0 +1,13 @@
+00:00 - recalling yesterday session 
+01:20 - stages 
+11:15 - implementing it in project 
+22:55 - added the application repository with pipeline and import the repo 
+33:40 - compiling or build 
+34:00 - unit test 
+34:15 - quality control
+34:30 - deploy the test enviornment 
+37:41 - extended with shared liberaries 
+43:40 - directory structure 
+48:35 - global shared liberaries 
+52:56 - defining directive pipeline 
+1:10:39 - CI step for different language 
