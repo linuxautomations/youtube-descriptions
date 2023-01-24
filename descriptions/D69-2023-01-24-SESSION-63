@@ -1,0 +1,18 @@
+00:00 - recalling yesterday session 
+01:28 - create one eks cluster and use one node server 
+03:15 - seeing the failure in pipeline jobs 
+07:44 - kubernetes 
+10:23 - kubernetes architecture 
+10:48 - AWS kubernetes architecture
+11:30 - kubernetes cli client 
+12:00 - kubectl configuration 
+13:12 - kubectl command 
+24:14 - pod 
+29:01 - how to create pod 
+35:35 - expose the nginx service to outside world 
+37:49 - load balencer 
+42:25 - roboshop approach on kubernetes 
+48:38 - creating image by using docker file 
+57:20 - copy directory and file 
+1:07:52 - docker file 
+1:13:36 - catalogue component 
