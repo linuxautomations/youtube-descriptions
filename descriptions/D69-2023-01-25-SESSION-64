@@ -1,0 +1,12 @@
+00:00 - recalling yesterday session 
+01:09 - going to the workstation 
+02:04 - going with roboshop component
+12:33 - checking payment docker file 
+17:36 - enviornment variable required for payment component 
+21:38 - shipping component 
+30:04 - load the schema for roboshop component 
+52:00 - addressing the problem 
+54:23 - helm chart
+59:24 - sending the values 
+1:02:18 - install the helm chart inside kubernetes
+1:11:56 - clone the components 
