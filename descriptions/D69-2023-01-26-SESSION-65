@@ -1,0 +1,13 @@
+00:00 - recalling yesterday session 
+00:49 - created a jenkins helm chart build with parameter for all roboshop component 
+03:27 - how the pods gets the configuration 
+04:07 - aws parameter store EKS 
+07:17 - install the kuberenetes secrets store csi driver and then ascp
+22:03 - mount parameter in amazon eks 
+40:14 - jmespath 
+44:20 - loops in helm charts 
+51:38 - convert the parameter into enviornment variable 
+55:03 - secret manager 
+59:14 - external secret operator 
+1:06:30 - secrets to pod kubernetes 
+1:21:46 - JSON secret values 
