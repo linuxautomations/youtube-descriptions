@@ -1,0 +1,22 @@
+00:00 - recalling yesterday session 
+01:05 - build the parameters 
+03:00 - placing the conditions 
+07:05 - init containers 
+07:30 - load the schema init containers 
+18:40 - pushing the images 
+33:48 - pass the init containers 
+41:26 - shipping component 
+47:19 - creating one more tag 
+49:23 - CI pipeline 
+51:55 - adding one user 
+57:08 - catalogue component 2.0.1
+57:32 - checking the log series 
+1:00:04 - send the logs 
+1:06:20 - run the commands 
+1:08:35 - delete the indices 
+1:15:29 - visualize the dashboard 
+1:17:10 - doing small load test 
+1:18:33 - find out why so many errors are there 
+1:21:13 - why getting cart related error 
+1:23:45 - stack management 
+1:25:47 - why charts are failing and fixed it 
