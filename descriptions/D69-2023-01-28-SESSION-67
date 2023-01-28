@@ -1,0 +1,20 @@
+00:00 - recalling yesterday session 
+01:07 - check the load test is working or not 
+02:35 - ELK 
+07:21 - run the ELK 
+10:55 - visualize library 
+13:50 - need another pod to spot the request 
+18:11 - going with all component
+21:14 - scalling
+22:40 - enabling the resources
+37:00 - going with redeployment of all the apps
+43:14 - load test
+49:46 - horizontal pod autoscaling 
+57:21 - scale another instance 
+1:00:03 - liquibase
+1:02:00 - how can be say that pod is ready or not
+1:13:08 - delete the variable in secret store
+1:16:59 - doing the last load test 
+1:31:08 - container approached 
+1:36:06 - revisit the previous points 
+1:40:30 - where we started and where are we 
