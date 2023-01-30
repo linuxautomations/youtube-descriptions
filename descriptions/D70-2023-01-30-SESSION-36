@@ -1,0 +1,13 @@
+00:00 - recalling yesterday session 
+02:06 - check the quality control of code 
+03:14 - sonar cube
+06:47 - setup of the sonar cube
+16:43 - hit the server
+17:50 - setup the project manually 
+24:12 - how to push the code of sonar cube to do some analysis
+24:28 - sonar cube scanner 
+30:00 - sonar project key 
+33:59 - system manager 
+42:19 - aws parameter store build 
+1:02:43 - getting the secret 
+1:04:42 - store the output into variable 
