@@ -1,0 +1,17 @@
+00:00 - recalling yesterday session 
+01:55 - how to mask the username and password rather than printing it
+03:40 - pipeline syntax 
+17:44 - how to move the proper code into groovy code
+19:01 - stage 
+22:54 - how to clean the workspace
+31:31 - get the repository code
+35:41 - catalogue 
+36:54 - user 
+38:13 - payment
+39:35 - frontend
+40:36 - shipping
+48:55 - run the shipping component
+53:24 - quality gates
+59:40 - sonar scanner wait for quality gate 
+1:03:32 - how to mark the version 
+1:12:23 - multi branch pipeline 
