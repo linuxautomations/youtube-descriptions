@@ -1,0 +1,14 @@
+00:00 - recalling yesterday session 
+01:07 -update the DNS record of jenkins 
+03:58 - making cart file
+07:31 - creating appropriate semantic versioning 
+14:25 - publishing the artifact to nexus 
+20:21 - going with raw 
+22:49 - proxy
+32:13 - catologue component
+39:40 - frontend
+43:46 - payment
+46:50 - shipping 
+50:55 - deploy the application inside the server 
+51:39 - check that application is working or not
+1:08:22 - going with same playbook with small loop
