@@ -1,0 +1,20 @@
+00:00 - recalling yesterday session 
+0:42 - looking into rabbitmq 
+07:32 - run the  flow of roboshop 
+11:14 - what we had done so far 
+11:55 - OS maintance 
+14:25 - code vulnerability 
+15:55 - dependencies security check
+17:47 - how to manage the code 
+18:44 - application changes on server 
+19:32 - track application 
+21:40 - clcf project 
+24:15 - atlassian 
+25:44 - run test cases of application 
+29:25 - build failures 
+30:00 - store artifacts 
+49:43 - why iaC
+53:18 - terraform 
+59:10 - hcl v2
+59:32 - how hcl will have the code
+1:01:33 - terraform file
